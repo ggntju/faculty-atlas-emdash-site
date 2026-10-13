@@ -23,4 +23,9 @@
 		"crons": ["* * * * *"],
 	},
 	"send_email": [{ "name": "EMAIL" }],
+	"worker_loaders": [
+    {
+      "binding": "LOADER",
+    },
+  ],
 }
