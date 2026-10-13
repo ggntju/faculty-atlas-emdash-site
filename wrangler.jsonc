@@ -22,4 +22,5 @@
 	"triggers": {
 		"crons": ["* * * * *"],
 	},
+	"send_email": [{ "name": "EMAIL" }],
 }

@@ -5,6 +5,7 @@ dist
 uploads
 data.db
 .wrangler
+pnpm-lock.yaml
 
 # Environment / Wrangler secrets
 .env
